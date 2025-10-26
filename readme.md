@@ -33,22 +33,27 @@ Este projeto é um **conceito de dashboard interativo multipaginado** desenvolvi
 ```bash
 git clone https://github.com/seu-usuario/dashboard-project.git
 cd dashboard-project
-
+```
 
 2. Crie um ambiente virtual (opcional, mas recomendado):
 
+```bash
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
-
+```
 
 3. Instale as dependências:
 
+```bash
 pip install -r requirements.txt
+```
 
 4. Execute o app:
-streamlit run app.py
 
+```bash
+streamlit run app.py
+```
  
 Contato
 
